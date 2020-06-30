@@ -1,0 +1,11 @@
+div {
+  margin: 20px;
+  cursor: pointer;
+  border: 1px solid gray;
+  color: cornflowerblue;
+  background-color: silver;
+}
+div:hover {
+  background-color: aliceblue;
+  transition: .4s linear;
+}
